@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**LaasriNadia/LaasriNadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 I'm Nadia, frontend developer, CSS and JavasSript lover.
-Here are some ideas to get you started:
+
 
  Check out some of my work : 
  
@@ -15,5 +14,6 @@ Here are some ideas to get you started:
  - 🎵 [Music lyrics app](https://chingu-voyages.github.io/v11-geckos-team-10/)
  
 
-- 📫 Contact me: https://nadialaasri.me/
+
+📫 Contact me: https://nadialaasri.me/
 
