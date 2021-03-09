@@ -15,5 +15,5 @@ I'm Nadia, frontend developer, CSS and JavasSript lover.
  
 
 
-📫 Contact me: https://nadialaasri.me/
+📫 Contact me: https://nadialaasri.tech/
 
