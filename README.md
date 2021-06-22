@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm Nadia, frontend developer, CSS and JavasSript lover.
+I'm Nadia, frontend web developer, CSS and JavasSript lover.
 
 
  Check out some of my work : 
