@@ -15,5 +15,5 @@ I'm Nadia, frontend web developer, CSS and JavasSript lover.
  
 
 
-📫 Contact me: https://nadialaasri.tech/
+📫 Contact me: nadialaasri.netlify.app
 
